@@ -1,2 +1,2 @@
-# go_study
+# Go study at 2020
  
